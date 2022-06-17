@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexjgreig
-- 👀 I’m interested in programming, Rust, complex algorithms, mathematics and physics.
+- 👀 I’m interested in programming, Rust, complex algorithms, finance, mathematics and physics.
 - 🌱 I’m currently learning the Rust Language.
 - 💞️ I’m looking to collaborate on multiple projects just deciding which would be the most enjoyable and beneficial.
 
