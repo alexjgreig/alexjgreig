@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexjgreig
-- 👀 I’m interested in programming, Rust, complex algorithms, finance, mathematics and physics.
+- 👀 I’m interested in derivatives, trading, quantum technology and mathematics.
 
 <!---
 alexjgreig/alexjgreig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
